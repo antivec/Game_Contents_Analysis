@@ -9,3 +9,4 @@
 
 Contents_Analysis -> 원신 나선비경 컨텐츠 의도 분석 문서
 
+Currency_Balance_Team -> 가디언테일즈 초반 구간 PLC 선정 / BM 기획 분석 문서 (협업 프로젝트)
